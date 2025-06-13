@@ -12,11 +12,6 @@
 
 **Educatieproject voor het Voortgezet Onderwijs** 
 
-
-
-![](https://web-api.textin.com/ocr_image/external/e68ae9aaf40a2d12.jpg)
-
-
 <!-- inhoudsopgave -->
 
 Geschiedenis HAVO3/VWO 3 en 4 3
