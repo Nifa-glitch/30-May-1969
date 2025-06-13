@@ -1,7 +1,5 @@
 <div align="center">
-	<img src="images/30 mei protest borden.png">
-	<br>
-	<br>
+	
 	
 </div>
 
